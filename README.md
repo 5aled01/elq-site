@@ -1,8 +1,5 @@
 
 <!-- installation -->
-## ⚙️Installation
-
-After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
 
 ### 🔧Install prerequisites (once for a machine)
 
@@ -43,5 +40,48 @@ Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://them
 **Code License:** Released under the [MIT](https://github.com/themefisher/bigspring-light-nextjs/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+
+
+to do:
+
+- franch
+- colore 
+- animatino
+- font
+- header animation
+
+
+Données d'entrée
+
+L'idée
+    Développement produit - R&D
+    Marketing client
+- Validations de phases
+
+Pré-étude
+    Analyse fonctionnelle
+    Expert métier Ressource
+    Cahier des charges
+    Outils projet
+    AMDEC
+- Check-list Objectifs projet
+
+
+Étude
+    Définition produit
+    Plan assurance Qualité produit
+
+
+Réalisation
+    Pré-série
+    Série
+- Qualité Coût Délais Performance
+
+
+Bilan
+    Données de sortie
+
+
+
 
 

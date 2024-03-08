@@ -28,7 +28,7 @@ const Logo = ({ src }) => {
         logo_text
       ) : (
         title
-      )}
+      )} 
     </Link>
   );
 };
